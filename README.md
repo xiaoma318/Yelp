@@ -2,7 +2,8 @@ Yelp
 ====
 Time spent: 15 hours spent in total
 
-Completed user stories:
+#### Completed user stories:
+
 
 Search results page
  * [x] Required: Table rows should be dynamic height according to the content height
